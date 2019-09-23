@@ -1,0 +1,12 @@
+C:\Users\Krist\source\repos\xamarin2\xamarin2\xamarin2\obj\Debug\netstandard2.0\xamarin2.csprojAssemblyReference.cache
+C:\Users\Krist\source\repos\xamarin2\xamarin2\xamarin2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Krist\source\repos\xamarin2\xamarin2\xamarin2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Krist\source\repos\xamarin2\xamarin2\xamarin2\obj\Debug\netstandard2.0\xamarin2.csproj.CoreCompileInputs.cache
+C:\Users\Krist\source\repos\xamarin2\xamarin2\xamarin2\obj\Debug\netstandard2.0\xamarin2.AssemblyInfoInputs.cache
+C:\Users\Krist\source\repos\xamarin2\xamarin2\xamarin2\obj\Debug\netstandard2.0\xamarin2.AssemblyInfo.cs
+C:\Users\Krist\source\repos\xamarin2\xamarin2\xamarin2\bin\Debug\netstandard2.0\xamarin2.deps.json
+C:\Users\Krist\source\repos\xamarin2\xamarin2\xamarin2\bin\Debug\netstandard2.0\xamarin2.dll
+C:\Users\Krist\source\repos\xamarin2\xamarin2\xamarin2\bin\Debug\netstandard2.0\xamarin2.pdb
+C:\Users\Krist\source\repos\xamarin2\xamarin2\xamarin2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Krist\source\repos\xamarin2\xamarin2\xamarin2\obj\Debug\netstandard2.0\xamarin2.dll
+C:\Users\Krist\source\repos\xamarin2\xamarin2\xamarin2\obj\Debug\netstandard2.0\xamarin2.pdb
